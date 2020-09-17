@@ -6,7 +6,9 @@ namespace Hello
   {
       static void Main()
       {
+        // the message
         System.WriteLine("Hello Hills Road!");
+        // read it and weep
       }
   }
 }
